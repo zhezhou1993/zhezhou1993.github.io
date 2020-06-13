@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Robotics Ph.D. candidates
+# Robotics Ph.D. candidate
 I'm a fourth-year Ph.D. student at [Institute of Robotics](http://robotics.umich.edu/) at the University of Michigan. Previously, I completed my Master degree in  Robotics at UofM and bachelor degree at [University of Electronic Science and Technology of China (USETC)](http://en.uestc.edu.cn/)
 My interests are Robot perception and manipulation involving computer vision and machine learning, now I'm working in [4PROGRESS lab](http://progress.eecs.umich.edu/) headed by [Prof. Chad Jenkins](http://web.eecs.umich.edu/~ocj/)
 
