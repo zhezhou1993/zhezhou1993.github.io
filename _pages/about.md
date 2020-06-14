@@ -15,7 +15,7 @@ My interests are Robot perception and manipulation involving computer vision and
 
 
 # Recent News
-* Jun, 2020. I will be working at Amazon Lab 126 as Applied Scientiest Intern -- SLAM. Really excited about the new journey! 
+* Jun, 2020. I will be working at Amazon Lab 126 as Applied Scientiest Intern. Really excited about the new journey! 
 * May, 2020. Our LIT paper has been accepted to IEEE Robotics and Automation Letters (RA-L)!
 * Feb, 2020. We have public our LIT light-field dataset for transparent object detection, segmentation, and pose estimation.
 * Nov, 2019. I will be present our GlassLoc paper in IROS 2019, Machu, China.
