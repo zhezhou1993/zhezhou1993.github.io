@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "ROB511"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Institute of Robotics"
+date: 2020-09-01
+location: "University of Michigan"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+ROB511

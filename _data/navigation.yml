@@ -4,7 +4,7 @@ main:
     url: /publications/ 
 
   - title: "CV"
-    url: /cv/
+    url: /files/zheming_cv_full_2020.pdf
 
   - title: "Teaching"
     url: /teaching/    
