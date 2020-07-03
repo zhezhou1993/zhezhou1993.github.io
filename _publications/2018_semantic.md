@@ -6,7 +6,7 @@ excerpt: ''
 date: 'Oct, 2018'
 # venue: ''
 paperurl: ''
-citation: 'Zeng Zhen, <b>Zheming Zhou</b>, Zhiqiang Sui, Odest Chadwicke Jenkins. <i>IEEE/RSJ IEEE/RSJ International Conference on Robotics and Automation (ICRA)</i>'
+citation: 'Zeng Zhen, <b>Zheming Zhou</b>, Zhiqiang Sui, Odest Chadwicke Jenkins. <i>IEEE/RSJ International Conference on Robotics and Automation (ICRA)</i>'
 ---
 
 [Paper Link](https://ieeexplore.ieee.org/abstract/document/8593629)
