@@ -15,6 +15,7 @@ My interests are Robot perception and manipulation involving computer vision and
 
 
 # Recent News
+* April, 2021. I have successfully defended my dissertation! [Defense Recording](https://www.youtube.com/watch?v=1O-hBsLCtac), [Dissertation](http://zhezhou1993.github.io/publications/2021_dissertation)
 * Jun, 2020. I will be working at Amazon Lab 126 as Applied Scientiest Intern. Really excited about the new journey! 
 * May, 2020. Our LIT paper has been accepted to IEEE Robotics and Automation Letters (RA-L)!
 * Feb, 2020. We have public our LIT light-field dataset for transparent object detection, segmentation, and pose estimation.
