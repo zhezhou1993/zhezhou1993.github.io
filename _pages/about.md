@@ -15,6 +15,7 @@ My interests are Robot perception and manipulation involving computer vision and
 
 
 # Recent News
+* May, 2021. Our LIT paper won 2020 IEEE Robotics and Automation Letters (RA-L) Best Paper Award!
 * April, 2021. I have successfully defended my dissertation! [[Defense Recording]](https://www.youtube.com/watch?v=1O-hBsLCtac), [[Full Dissertation]](http://zhezhou1993.github.io/publications/2021_dissertation)
 * Jun, 2020. I will be working at Amazon Lab 126 as Applied Scientist Intern. Really excited about the new journey! 
 * May, 2020. Our LIT paper has been accepted to IEEE Robotics and Automation Letters (RA-L)!
