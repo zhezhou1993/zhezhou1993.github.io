@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zheming Zhou"
 title_separator          : "-"
 name                     : &name "Zheming Zhou"
-description              : &description "Robotics Ph.D. candidate at the University of Michigan"
+description              : &description "Robotic Scientist, Applied Scientist in Amazon Lab126"
 url                      : https://www.zhemingzhou.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhezhou1993/zhezhou1993.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Zheming(Germain) Zhou"
   avatar           : "zheming.png"
-  bio              : "Robotics Ph.D., University of Michigan"
-  location         : "Ann Arbor, Michigan, USA"
+  bio              : "Robotic Scientist, Applied Scientist in Amazon"
+  location         : "Sunnyvale, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=LWKGD_kAAAAJ&hl=en"
