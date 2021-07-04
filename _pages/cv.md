@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View Curriculum Vitae [PDF]](http://zhezhou1993.github.io/files/zheming_cv_full_2020.pdf)
+[Click to View Curriculum Vitae [PDF]](http://zhezhou1993.github.io/files/zheming_cv_full_2021.pdf)
